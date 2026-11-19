@@ -1,5 +1,11 @@
+/*Karla Yoseline Martinez Flores
+Ejercicio
+Problema1.c*/
+
 #include <stdio.h> 
+
 int main() { 
+  
 // Comentario por línea 
 /* Comentario por bloque    
   que puede ocupar    
@@ -14,4 +20,5 @@ int main() {
   /*        
     código fuente     */      
   return 0; 
+  
 } 
